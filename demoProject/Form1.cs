@@ -15,8 +15,6 @@ namespace demoProject
         public Form1()
         {
             InitializeComponent();
-            // add something
-            int check;
         }
     }
 }
